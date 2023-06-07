@@ -1,4 +1,4 @@
-# Kaggle Transcription
+# ⛺ Kaggle Transcription
 
 ## 1. 필사
 
