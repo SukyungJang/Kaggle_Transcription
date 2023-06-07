@@ -1,4 +1,4 @@
-# ⛺ Kaggle Transcription
+# ⛺ 캐글 대회 공부
 
 ## 1. 필사
 
